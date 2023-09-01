@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/admin.swanee/static/css/main.a4f8b6ae.css",
-    "main.js": "/admin.swanee/static/js/main.d90366c8.js",
+    "main.js": "/admin.swanee/static/js/main.12fdefea.js",
     "static/media/Inter-ExtraBold.eot": "/admin.swanee/static/media/Inter-ExtraBold.2fe051d1b779b86f9598.eot",
     "static/media/Inter-Bold.eot": "/admin.swanee/static/media/Inter-Bold.7e9fff4114e0ea385c94.eot",
     "static/media/Inter-SemiBold.eot": "/admin.swanee/static/media/Inter-SemiBold.d7ced04b4dc4d21fd205.eot",
@@ -83,10 +83,10 @@
     "static/media/black-down-arrow.svg": "/admin.swanee/static/media/black-down-arrow.620b55945c18d55b9a14.svg",
     "static/media/icon-polygon.svg": "/admin.swanee/static/media/icon-polygon.a6078b2ac37a66b1a88e.svg",
     "main.a4f8b6ae.css.map": "/admin.swanee/static/css/main.a4f8b6ae.css.map",
-    "main.d90366c8.js.map": "/admin.swanee/static/js/main.d90366c8.js.map"
+    "main.12fdefea.js.map": "/admin.swanee/static/js/main.12fdefea.js.map"
   },
   "entrypoints": [
     "static/css/main.a4f8b6ae.css",
-    "static/js/main.d90366c8.js"
+    "static/js/main.12fdefea.js"
   ]
 }
