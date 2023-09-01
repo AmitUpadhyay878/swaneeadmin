@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/admin.swanee/static/css/main.227a3a76.css",
-    "main.js": "/admin.swanee/static/js/main.d6c008e2.js",
+    "main.css": "/admin.swanee/static/css/main.a4f8b6ae.css",
+    "main.js": "/admin.swanee/static/js/main.d90366c8.js",
     "static/media/Inter-ExtraBold.eot": "/admin.swanee/static/media/Inter-ExtraBold.2fe051d1b779b86f9598.eot",
     "static/media/Inter-Bold.eot": "/admin.swanee/static/media/Inter-Bold.7e9fff4114e0ea385c94.eot",
     "static/media/Inter-SemiBold.eot": "/admin.swanee/static/media/Inter-SemiBold.d7ced04b4dc4d21fd205.eot",
@@ -21,13 +21,15 @@
     "static/media/Typemanagement.svg": "/admin.swanee/static/media/Typemanagement.a0288d0f8273c90085b8c0b4c03ad52a.svg",
     "static/media/logo.svg": "/admin.swanee/static/media/logo.ba75707de084d5fcdf8731d2b12df858.svg",
     "static/media/Categorymanagement.svg": "/admin.swanee/static/media/Categorymanagement.656358af05397d1e0b5c12ab63603d47.svg",
-    "static/media/subcategorymanagement.svg": "/admin.swanee/static/media/subcategorymanagement.1ad78a567e5545a607204c09726ec982.svg",
+    "static/media/subcategorymanagement.svg": "/admin.swanee/static/media/subcategorymanagement.8f143eff6b7c3e627b1629199a39869e.svg",
     "static/media/Colormanagement.svg": "/admin.swanee/static/media/Colormanagement.ad5f0b11b93cc5c551483d7090551245.svg",
     "static/media/Vendormanagement.svg": "/admin.swanee/static/media/Vendormanagement.e1148379b367de2489f39c6c9328cf7b.svg",
     "static/media/Shippingmanagement.svg": "/admin.swanee/static/media/Shippingmanagement.ff7b2a24f352200d979368ab94ca5f63.svg",
+    "static/media/adminLogout.svg": "/admin.swanee/static/media/adminLogout.af4af0cd19261fbafd671a5cf6d819df.svg",
+    "static/media/redbin.svg": "/admin.swanee/static/media/redbin.af4af0cd19261fbafd671a5cf6d819df.svg",
     "static/media/delete-icon-new.svg": "/admin.swanee/static/media/delete-icon-new.7e198d6a8ca3df3dcf5ac60f04def476.svg",
-    "static/media/adminLogout.svg": "/admin.swanee/static/media/adminLogout.338284fb8b03f154d150bcf8ee1825fa.svg",
-    "static/media/redbin.svg": "/admin.swanee/static/media/redbin.338284fb8b03f154d150bcf8ee1825fa.svg",
+    "static/media/icon-delete.svg": "/admin.swanee/static/media/icon-delete.6bec04e6e1d27d800cf4f46ca6b811cf.svg",
+    "static/media/icon-filter-close.svg": "/admin.swanee/static/media/icon-filter-close.f33f6811bea7a9dd0608ef5e9255b5a1.svg",
     "static/media/Customermanagement.svg": "/admin.swanee/static/media/Customermanagement.d93d6572f7a9997e510f059bb16c7f89.svg",
     "static/media/Dashboard.svg": "/admin.swanee/static/media/Dashboard.f7fac498327bfa2b6f607930fa0575c0.svg",
     "static/media/icon-contact-us.svg": "/admin.swanee/static/media/icon-contact-us.d731b1d82ae4cfec8386fa7b5b5de048.svg",
@@ -53,14 +55,19 @@
     "static/media/icon-menu-close.svg": "/admin.swanee/static/media/icon-menu-close.d956d38f956bd4cd6fa7c8f78a57458b.svg",
     "static/media/icon-edit-white.svg": "/admin.swanee/static/media/icon-edit-white.f56f4f7ec2a60acc2ef0a23b43397134.svg",
     "static/media/collapse-logo.svg": "/admin.swanee/static/media/collapse-logo.7d55dc6df69a716ea63e239f132e6240.svg",
+    "static/media/icon-decline-modal.svg": "/admin.swanee/static/media/icon-decline-modal.8d15e3605e5525f098e1348ec523710e.svg",
     "static/media/approve-icon.svg": "/admin.swanee/static/media/approve-icon.718c6ce6b30f1db210e97614596e2585.svg",
     "static/media/greysearch.svg": "/admin.swanee/static/media/greysearch.d31dd12a3e1e6064bce582cd0b7c2739.svg",
     "static/media/eye.svg": "/admin.swanee/static/media/eye.6445be64c721171c0c1762608f08f0d5.svg",
+    "static/media/icon-rejected-status.svg": "/admin.swanee/static/media/icon-rejected-status.1cbbcb661241d40b2bf7547a10b4e6c6.svg",
     "static/media/icon-doller.svg": "/admin.swanee/static/media/icon-doller.13c660eb709d8c1da1d06e42a789fb9e.svg",
+    "static/media/icon-rejected-red.svg": "/admin.swanee/static/media/icon-rejected-red.9f4355d74ac6a53df4cfb866dc4e6020.svg",
     "static/media/icon-collapse-toggle.svg": "/admin.swanee/static/media/icon-collapse-toggle.5d681b7a9a4acc3a8f429eae5d770df6.svg",
     "static/media/icon-search.svg": "/admin.swanee/static/media/icon-search.550bdfeae6a27d52e650.svg",
     "index.html": "/admin.swanee/index.html",
+    "static/media/icon-filter.svg": "/admin.swanee/static/media/icon-filter.e92a05e6466924cbff5cb1b293bbc089.svg",
     "static/media/icon-view-white.svg": "/admin.swanee/static/media/icon-view-white.34653bc3fbd393e4de046d1448b4cb1d.svg",
+    "static/media/icon-approve-modal.svg": "/admin.swanee/static/media/icon-approve-modal.682bcd80be3eefdefd82db09b138e5b4.svg",
     "static/media/selectimg.svg": "/admin.swanee/static/media/selectimg.db611cfc132893791607f6ab55a603ea.svg",
     "static/media/icon-table-edit.svg": "/admin.swanee/static/media/icon-table-edit.f715e578219e4ea7e3b6519b196156c8.svg",
     "static/media/icon-right-white.svg": "/admin.swanee/static/media/icon-right-white.95ec708a395148274a73.svg",
@@ -72,14 +79,14 @@
     "static/media/icon-gropdown-down.svg": "/admin.swanee/static/media/icon-gropdown-down.62ec0f7fd6a6923190b0.svg",
     "static/media/icon-check-bg.svg": "/admin.swanee/static/media/icon-check-bg.b5e1c4a1c5ae48a161a2.svg",
     "static/media/icon-bg-line.svg": "/admin.swanee/static/media/icon-bg-line.9e47af4293ab9399359a.svg",
-    "static/media/icon-modal-close.svg": "/admin.swanee/static/media/icon-modal-close.492788c2ba4850c7805e.svg",
+    "static/media/icon-modal-close.svg": "/admin.swanee/static/media/icon-modal-close.492788c2ba4850c7805e398e8756b645.svg",
     "static/media/black-down-arrow.svg": "/admin.swanee/static/media/black-down-arrow.620b55945c18d55b9a14.svg",
     "static/media/icon-polygon.svg": "/admin.swanee/static/media/icon-polygon.a6078b2ac37a66b1a88e.svg",
-    "main.227a3a76.css.map": "/admin.swanee/static/css/main.227a3a76.css.map",
-    "main.d6c008e2.js.map": "/admin.swanee/static/js/main.d6c008e2.js.map"
+    "main.a4f8b6ae.css.map": "/admin.swanee/static/css/main.a4f8b6ae.css.map",
+    "main.d90366c8.js.map": "/admin.swanee/static/js/main.d90366c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.227a3a76.css",
-    "static/js/main.d6c008e2.js"
+    "static/css/main.a4f8b6ae.css",
+    "static/js/main.d90366c8.js"
   ]
 }
