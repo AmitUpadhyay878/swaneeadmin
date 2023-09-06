@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/admin.swanee/static/css/main.5bc53de5.css",
-    "main.js": "/admin.swanee/static/js/main.975a1811.js",
+    "main.css": "/admin.swanee/static/css/main.62c3f05e.css",
+    "main.js": "/admin.swanee/static/js/main.3b260559.js",
     "static/media/Inter-ExtraBold.eot": "/admin.swanee/static/media/Inter-ExtraBold.2fe051d1b779b86f9598.eot",
     "static/media/Inter-Bold.eot": "/admin.swanee/static/media/Inter-Bold.7e9fff4114e0ea385c94.eot",
     "static/media/Inter-SemiBold.eot": "/admin.swanee/static/media/Inter-SemiBold.d7ced04b4dc4d21fd205.eot",
@@ -42,9 +42,11 @@
     "static/media/Ordermanagement.svg": "/admin.swanee/static/media/Ordermanagement.34fd9ab042e1b5e3334612c675ea8187.svg",
     "static/media/icon-delete-white.svg": "/admin.swanee/static/media/icon-delete-white.98c61a348a425388310521958f4cb83b.svg",
     "static/media/Materialmanagement.svg": "/admin.swanee/static/media/Materialmanagement.5fb958a716eef5b3efbd4b630fa92372.svg",
+    "static/media/icon-star-red.svg": "/admin.swanee/static/media/icon-star-red.5634fc956cce22b10cc1eccc087dfa66.svg",
     "static/media/edit-icon.svg": "/admin.swanee/static/media/edit-icon.b6ce0148f06e227d7bb1b4a14a68656f.svg",
     "static/media/icon-action-dots.svg": "/admin.swanee/static/media/icon-action-dots.5131ea65ad8a6ba18731d1a0b79dc620.svg",
     "static/media/icon-eye-grey-close.svg": "/admin.swanee/static/media/icon-eye-grey-close.04654e73c279504c5413.svg",
+    "static/media/icon-product.svg": "/admin.swanee/static/media/icon-product.cbec3cef9640244d3b7a39262ecc3271.svg",
     "static/media/icon-filter-red.svg": "/admin.swanee/static/media/icon-filter-red.309f5b3cdc35c136b745f52ecafce50d.svg",
     "static/media/icon-store.svg": "/admin.swanee/static/media/icon-store.768350cf44454aa6a0f3b24a23ee9590.svg",
     "static/media/icon-eye-grey.svg": "/admin.swanee/static/media/icon-eye-grey.217584cbf422d10a7a94.svg",
@@ -65,6 +67,9 @@
     "static/media/icon-rejected-status.svg": "/admin.swanee/static/media/icon-rejected-status.1cbbcb661241d40b2bf7547a10b4e6c6.svg",
     "static/media/icon-doller.svg": "/admin.swanee/static/media/icon-doller.13c660eb709d8c1da1d06e42a789fb9e.svg",
     "static/media/icon-rejected-red.svg": "/admin.swanee/static/media/icon-rejected-red.9f4355d74ac6a53df4cfb866dc4e6020.svg",
+    "static/media/icon-in-progress-arrow.svg": "/admin.swanee/static/media/icon-in-progress-arrow.1e9899149ef71b0d0c6d.svg",
+    "static/media/icon-red-arrow.svg": "/admin.swanee/static/media/icon-red-arrow.2d5b3f10e43e88ec9a7e.svg",
+    "static/media/icon-resolved-arrow.svg": "/admin.swanee/static/media/icon-resolved-arrow.a766cfc4e5efe26efa11.svg",
     "static/media/selectimg.svg": "/admin.swanee/static/media/selectimg.b7aa8208eed3aa9236ca7c5474cbd395.svg",
     "static/media/icon-collapse-toggle.svg": "/admin.swanee/static/media/icon-collapse-toggle.5d681b7a9a4acc3a8f429eae5d770df6.svg",
     "static/media/icon-mail-gray.svg": "/admin.swanee/static/media/icon-mail-gray.4048276ed175a6d54160ebc0a3a81b10.svg",
@@ -88,11 +93,11 @@
     "static/media/icon-modal-close.svg": "/admin.swanee/static/media/icon-modal-close.492788c2ba4850c7805e398e8756b645.svg",
     "static/media/black-down-arrow.svg": "/admin.swanee/static/media/black-down-arrow.620b55945c18d55b9a14.svg",
     "static/media/icon-polygon.svg": "/admin.swanee/static/media/icon-polygon.a6078b2ac37a66b1a88e.svg",
-    "main.5bc53de5.css.map": "/admin.swanee/static/css/main.5bc53de5.css.map",
-    "main.975a1811.js.map": "/admin.swanee/static/js/main.975a1811.js.map"
+    "main.62c3f05e.css.map": "/admin.swanee/static/css/main.62c3f05e.css.map",
+    "main.3b260559.js.map": "/admin.swanee/static/js/main.3b260559.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bc53de5.css",
-    "static/js/main.975a1811.js"
+    "static/css/main.62c3f05e.css",
+    "static/js/main.3b260559.js"
   ]
 }
